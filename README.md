@@ -1,2 +1,2 @@
 # CodingBat
-My coding solutions the problems provided in the files
+Coding solutions to the problems provided by CodingBats
